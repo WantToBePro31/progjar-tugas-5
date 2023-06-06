@@ -1,4 +1,4 @@
-Running 10s test @ http://172.18.98.81:8000/
+Running 10s test @ http://172.28.206.10:8000/
   50 threads and 1000 connections
   Thread Stats   Avg      Stdev     Max   +/- Stdev
     Latency   355.10ms  275.58ms   1.99s    57.15%
